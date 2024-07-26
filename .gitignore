@@ -1,0 +1,23 @@
+# Windows Files Ignore
+Thumbs.db
+*.ini
+*.bak
+
+# SolidWorks Files Ignore
+~*
+*.STE
+*.OUT
+*.MAS
+*.LCD
+*.GEN
+*.ELF
+*.CSV
+*.GRO
+*.MFO
+*.ONF
+*.DSP
+*.IDA
+*.LDS
+*.GTG
+*.CTG
+*.STG
